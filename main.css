@@ -1,3 +1,33 @@
 body {
   background-color: #F4F4F6;
 }
+
+.reg-main {
+  margin-top: 10%;
+}
+
+.reg-main .reg-main__logo-container {
+  width: fit-content;
+  margin: 0 auto;
+}
+
+.reg-main .reg-main__text-container {
+  position: relative;
+  top: 50%;
+}
+
+.reg-main .reg-main__logo-img {
+  width: 150px;
+}
+
+footer {
+  position: fixed;
+  bottom: 0px;
+  height: 50px;
+  width: 100%;
+  border-top: 1px solid #ccc
+}
+
+footer .footer__text {
+  margin: 10px 30px;
+}
